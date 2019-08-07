@@ -11,4 +11,4 @@ rebuild the image.
 
 1. `./build_image.sh`
 2. `ln -s [PATH_TO_PRETRAINED_MODEL_DUMP_DIR] mount`
-3. `/run_container.sh`
+3. `./run_container.sh`
